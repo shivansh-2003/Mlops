@@ -5,3 +5,5 @@ numpy
 keras
 tensorflow
 hyperopt
+dvc
+dagshub
